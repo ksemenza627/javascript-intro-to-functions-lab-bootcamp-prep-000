@@ -12,3 +12,4 @@ function logShout(string){
 uppercase=string.toUpperCase();
 string=uppercase;
 console.log (uppercase);
+}
